@@ -1,0 +1,5 @@
+instance_type = "t2.micro"
+image_id      = "ami-024e6efaf93d85776"
+access_key    = "AKIAX5V6RRHCJSHJOEGV"
+secret_key    = "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"
+key_name      = "mykey"
